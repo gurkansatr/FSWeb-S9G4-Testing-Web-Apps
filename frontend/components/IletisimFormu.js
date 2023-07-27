@@ -67,6 +67,7 @@ const IletisimFormu = () => {
       [e.target.name]: e.target.value
     });
   };
+  //throw new Error ("asd")
 
   return (
     <div className="App">
